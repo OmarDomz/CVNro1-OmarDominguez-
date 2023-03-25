@@ -1,3 +1,0 @@
-# CVNro1-OmarDominguez-
-TP - ARGENTINA PROGRAMA -HTML-CSS-JAVASCRIPT
-Presentacion de trabajo final ARGENTINA PROGRAMA 4.0 
